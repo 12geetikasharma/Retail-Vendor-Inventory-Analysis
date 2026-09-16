@@ -1,4 +1,4 @@
-# Vendor Performance & Inventory Analysis
+# Retail Vendor & Inventory Analysis
 
 ## Overview
 
